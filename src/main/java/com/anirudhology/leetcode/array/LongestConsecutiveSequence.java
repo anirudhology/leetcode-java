@@ -3,7 +3,7 @@ package com.anirudhology.leetcode.array;
 import java.util.HashSet;
 import java.util.Set;
 
-public class LargestConsecutiveSequence {
+public class LongestConsecutiveSequence {
 
     public int longestConsecutive(int[] nums) {
         // Special case

@@ -7,8 +7,9 @@ LeetCode solutions in Java programming language.
 | Problem ID | Problem Name                       | Solution Source                                                                           | Difficulty | Tag                          |
 |------------|------------------------------------|-------------------------------------------------------------------------------------------|------------|------------------------------|
 | 1          | Two Sum                            | [Solution](src/main/java/com/anirudhology/leetcode/array/TwoSum.java)                     | Easy       | Array, Hashing               |
-| 11         | Container With Most Water          | [Solution](src/main/java/com/anirudhology/leetcode/array/ContainerWithMostWater.java)     | Medium     | Array, Two Pointers          |
+| 11         | Container With Most Water          | [Solution](src/main/java/com/anirudhology/leetcode/array/ContainerWithMostWater.java)     | Hard       | Array, Two Pointers          |
 | 15         | 3 Sum                              | [Solution](src/main/java/com/anirudhology/leetcode/array/ThreeSum.java)                   | Medium     | Array, Sorting, Two Pointers |
+| 20         | Valid Parentheses                  | [Solution](src/main/java/com/anirudhology/leetcode/stack/ValidParentheses.java)           | Easy       | Stack                        |
 | 36         | Valid Sudoku                       | [Solution](src/main/java/com/anirudhology/leetcode/array/ValidSudoku.java)                | Medium     | Array, Hashing               |
 | 42         | Trapping Rain Water                | [Solution](src/main/java/com/anirudhology/leetcode/array/TrappingRainWater.java)          | Medium     | Array, Two Pointers          |
 | 49         | Group Anagrams                     | [Solution](src/main/java/com/anirudhology/leetcode/string/GroupAnagrams.java)             | Medium     | String, Hashing              |

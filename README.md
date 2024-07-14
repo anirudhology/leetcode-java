@@ -15,6 +15,7 @@ LeetCode solutions in Java programming language.
 | 49         | Group Anagrams                     | [Solution](src/main/java/com/anirudhology/leetcode/string/GroupAnagrams.java)             | Medium     | String, Hashing              |
 | 125        | Valid Palindrome                   | [Solution](src/main/java/com/anirudhology/leetcode/string/ValidPalindrome.java)           | Medium     | String, Two Pointers         |
 | 128        | Longest Consecutive Sequence       | [Solution](src/main/java/com/anirudhology/leetcode/array/LongestConsecutiveSequence.java) | Medium     | Array, Hashing               |
+| 155        | Min Stack                          | [Solution](src/main/java/com/anirudhology/leetcode/stack/MinStack.java)                   | Medium     | Stack, Design                |
 | 167        | Two Sum II - Input Array Is Sorted | [Solution](src/main/java/com/anirudhology/leetcode/array/TwoSumIIInputArrayIsSorted.java) | Medium     | Array, Two Pointers          |
 | 217        | Contains Duplicate                 | [Solution](src/main/java/com/anirudhology/leetcode/array/ContainsDuplicate.java)          | Easy       | Array, Hashing               |
 | 238        | Product Of Array Except Self       | [Solution](src/main/java/com/anirudhology/leetcode/array/ProductOfArrayExceptSelf.java)   | Medium     | Array                        |

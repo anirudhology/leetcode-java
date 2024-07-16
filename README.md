@@ -24,3 +24,4 @@ LeetCode solutions in Java programming language.
 | 242        | Valid Anagram                      | [Solution](src/main/java/com/anirudhology/leetcode/string/ValidAnagram.java)                 | Easy       | String, Hashing              |
 | 271        | Encode And Decode Strings          | [Solution](src/main/java/com/anirudhology/leetcode/string/EncodeAndDecodeStrings.java)       | Medium     | String                       |
 | 347        | Top K Frequent Elements            | [Solution](src/main/java/com/anirudhology/leetcode/array/TopKFrequentElements.java)          | Medium     | Array, Bucket Sort           |
+| 739        | Daily Temperatures                 | [Solution](src/main/java/com/anirudhology/leetcode/stack/DailyTemperatures.java)             | Medium     | Stack, Monotonic Stack       |

@@ -14,6 +14,7 @@ LeetCode solutions in Java programming language.
 | 36         | Valid Sudoku                       | [Solution](src/main/java/com/anirudhology/leetcode/array/ValidSudoku.java)                   | Medium     | Array, Hashing               |
 | 42         | Trapping Rain Water                | [Solution](src/main/java/com/anirudhology/leetcode/array/TrappingRainWater.java)             | Hard       | Array, Two Pointers          |
 | 49         | Group Anagrams                     | [Solution](src/main/java/com/anirudhology/leetcode/string/GroupAnagrams.java)                | Medium     | String, Hashing              |
+| 84         | Largest Rectangle In Histogram     | [Solution](src/main/java/com/anirudhology/leetcode/stack/LargestRectangleInHistogram.java)   | Medium     | Stack, Monotonic Stack       |
 | 125        | Valid Palindrome                   | [Solution](src/main/java/com/anirudhology/leetcode/string/ValidPalindrome.java)              | Medium     | String, Two Pointers         |
 | 128        | Longest Consecutive Sequence       | [Solution](src/main/java/com/anirudhology/leetcode/array/LongestConsecutiveSequence.java)    | Medium     | Array, Hashing               |
 | 150        | Evaluate Reverse Polish Notation   | [Solution](src/main/java/com/anirudhology/leetcode/stack/EvaluateReversePolishNotation.java) | Medium     | Stack                        |

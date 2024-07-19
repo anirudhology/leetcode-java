@@ -11,6 +11,7 @@ LeetCode solutions in Java programming language.
 | 15         | 3 Sum                                | [Solution](src/main/java/com/anirudhology/leetcode/array/ThreeSum.java)                               | Medium     | Array, Sorting, Two Pointers |
 | 20         | Valid Parentheses                    | [Solution](src/main/java/com/anirudhology/leetcode/stack/ValidParentheses.java)                       | Easy       | Stack                        |
 | 22         | Generate Parentheses                 | [Solution](src/main/java/com/anirudhology/leetcode/stack/GenerateParentheses.java)                    | Medium     | Stack, Backtracking          |
+| 33         | Search In Rotated Sorted Array       | [Solution](src/main/java/com/anirudhology/leetcode/binarysearch/SearchInRotatedSortedArray.java)      | Medium     | Binary Search                |
 | 36         | Valid Sudoku                         | [Solution](src/main/java/com/anirudhology/leetcode/array/ValidSudoku.java)                            | Medium     | Array, Hashing               |
 | 42         | Trapping Rain Water                  | [Solution](src/main/java/com/anirudhology/leetcode/array/TrappingRainWater.java)                      | Hard       | Array, Two Pointers          |
 | 49         | Group Anagrams                       | [Solution](src/main/java/com/anirudhology/leetcode/string/GroupAnagrams.java)                         | Medium     | String, Hashing              |

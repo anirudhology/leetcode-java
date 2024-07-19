@@ -31,4 +31,5 @@ LeetCode solutions in Java programming language.
 | 704        | Binary Search                        | [Solution](src/main/java/com/anirudhology/leetcode/binarysearch/BinarySearch.java)                    | Easy       | Binary Search                |
 | 739        | Daily Temperatures                   | [Solution](src/main/java/com/anirudhology/leetcode/stack/DailyTemperatures.java)                      | Medium     | Stack, Monotonic Stack       |
 | 853        | Car Fleet                            | [Solution](src/main/java/com/anirudhology/leetcode/stack/CarFleet.java)                               | Medium     | Stack, Monotonic Stack       |
-| 875        | Koko Eating Bananas                  | [Solution](src/main/java/com/anirudhology/leetcode/binarysearch/KokoEatingBananas.java)               | Medium     | Stack, Monotonic Stack       |
+| 875        | Koko Eating Bananas                  | [Solution](src/main/java/com/anirudhology/leetcode/binarysearch/KokoEatingBananas.java)               | Medium     | Binary Search                |
+| 981        | Time Based Key Value Store           | [Solution](src/main/java/com/anirudhology/leetcode/binarysearch/TimeBasedKeyValueStore.java)          | Medium     | Binary Search, Design        |

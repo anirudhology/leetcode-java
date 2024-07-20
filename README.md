@@ -18,6 +18,7 @@ LeetCode solutions in Java programming language.
 | 49         | Group Anagrams                       | [Solution](src/main/java/com/anirudhology/leetcode/string/GroupAnagrams.java)                         | Medium     | String, Hashing              |
 | 74         | Search A 2D Matrix                   | [Solution](src/main/java/com/anirudhology/leetcode/binarysearch/SearchA2DMatrix.java)                 | Medium     | Binary Search                |
 | 84         | Largest Rectangle In Histogram       | [Solution](src/main/java/com/anirudhology/leetcode/stack/LargestRectangleInHistogram.java)            | Hard       | Stack, Monotonic Stack       |
+| 121        | Best Time To Buy And Sell Stocks     | [Solution](src/main/java/com/anirudhology/leetcode/slidingwindow/BestTimeToBuyAndSellStocks.java)     | Easy       | Sliding Window               |
 | 125        | Valid Palindrome                     | [Solution](src/main/java/com/anirudhology/leetcode/string/ValidPalindrome.java)                       | Medium     | String, Two Pointers         |
 | 128        | Longest Consecutive Sequence         | [Solution](src/main/java/com/anirudhology/leetcode/array/LongestConsecutiveSequence.java)             | Medium     | Array, Hashing               |
 | 150        | Evaluate Reverse Polish Notation     | [Solution](src/main/java/com/anirudhology/leetcode/stack/EvaluateReversePolishNotation.java)          | Medium     | Stack                        |

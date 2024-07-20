@@ -7,6 +7,7 @@ LeetCode solutions in Java programming language.
 | Problem ID | Problem Name                         | Solution Source                                                                                       | Difficulty | Tag                          |
 |------------|--------------------------------------|-------------------------------------------------------------------------------------------------------|------------|------------------------------|
 | 1          | Two Sum                              | [Solution](src/main/java/com/anirudhology/leetcode/array/TwoSum.java)                                 | Easy       | Array, Hashing               |
+| 4          | Median Of Two Sorted Arrays          | [Solution](src/main/java/com/anirudhology/leetcode/binarysearch/MedianOfTwoSortedArrays.java)         | Hard       | Binary Search                |
 | 11         | Container With Most Water            | [Solution](src/main/java/com/anirudhology/leetcode/array/ContainerWithMostWater.java)                 | Medium     | Array, Two Pointers          |
 | 15         | 3 Sum                                | [Solution](src/main/java/com/anirudhology/leetcode/array/ThreeSum.java)                               | Medium     | Array, Sorting, Two Pointers |
 | 20         | Valid Parentheses                    | [Solution](src/main/java/com/anirudhology/leetcode/stack/ValidParentheses.java)                       | Easy       | Stack                        |

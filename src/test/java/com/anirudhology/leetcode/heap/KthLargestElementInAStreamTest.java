@@ -1,9 +1,9 @@
-package com.anirudhology.leetcode;
+package com.anirudhology.leetcode.heap;
 
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
-import static com.anirudhology.leetcode.KthLargestElementInAStream.KthLargest;
+import static com.anirudhology.leetcode.heap.KthLargestElementInAStream.KthLargest;
 
 class KthLargestElementInAStreamTest {
 

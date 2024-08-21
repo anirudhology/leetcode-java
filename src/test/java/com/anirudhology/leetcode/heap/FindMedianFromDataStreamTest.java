@@ -8,7 +8,7 @@ class FindMedianFromDataStreamTest {
 
     @Test
     public void testAddNumAndFindMedian() {
-        FindMedianFromDataStream.MedianFinder medianFinder = new FindMedianFromDataStream().new MedianFinder();
+        FindMedianFromDataStream.MedianFinder medianFinder = new FindMedianFromDataStream.MedianFinder();
 
         medianFinder.addNum(1);
         assertEquals(1.0, medianFinder.findMedian(), 0.0);
@@ -28,7 +28,7 @@ class FindMedianFromDataStreamTest {
 
     @Test
     public void testSingleElement() {
-        FindMedianFromDataStream.MedianFinder medianFinder = new FindMedianFromDataStream().new MedianFinder();
+        FindMedianFromDataStream.MedianFinder medianFinder = new FindMedianFromDataStream.MedianFinder();
 
         medianFinder.addNum(10);
         assertEquals(10.0, medianFinder.findMedian(), 0.0);

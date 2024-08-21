@@ -6,7 +6,7 @@ import java.util.Queue;
 
 public class FindMedianFromDataStream {
 
-    class MedianFinder {
+    static class MedianFinder {
 
         private final Queue<Integer> minHeap; // This will store lower half
         private final Queue<Integer> maxHeap; // This will store upper half

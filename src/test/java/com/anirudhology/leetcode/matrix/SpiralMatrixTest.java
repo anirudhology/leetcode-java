@@ -1,4 +1,4 @@
-package com.anirudhology.leetcode;
+package com.anirudhology.leetcode.matrix;
 
 import org.junit.jupiter.api.Test;
 

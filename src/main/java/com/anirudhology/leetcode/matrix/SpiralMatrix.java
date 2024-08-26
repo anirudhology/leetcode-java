@@ -1,4 +1,4 @@
-package com.anirudhology.leetcode;
+package com.anirudhology.leetcode.matrix;
 
 import java.util.ArrayList;
 import java.util.List;

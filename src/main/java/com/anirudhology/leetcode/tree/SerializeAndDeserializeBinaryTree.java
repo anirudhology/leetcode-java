@@ -24,7 +24,7 @@ public class SerializeAndDeserializeBinaryTree {
             // Process the binary tree
             while (!nodes.isEmpty()) {
                 // Get the node at the front
-                TreeNode node = nodes.poll();
+                TreeNode node = nodes.remove();
                 if (node == null) {
                     serialized.append("n").append(" ");
                 } else {
@@ -48,7 +48,7 @@ public class SerializeAndDeserializeBinaryTree {
             nodes.offer(root);
             // Process for all the remaining values
             for (int i = 1; i < values.length; i += 2) {
-                TreeNode node = nodes.poll();
+                TreeNode node = nodes.remove();
                 if (node != null) {
                     if (!values[i].equals("n")) {
                         node.left = new TreeNode(Integer.parseInt(values[i]));
